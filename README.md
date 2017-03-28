@@ -4,11 +4,11 @@
 
 # Run it locally
 
- - Download the project and run <code>npm install</code> in the terminal at the directory root level
- - run <code>node app.js</code> at the root level directory
  - Register a new bot at [https://dev.botframework.com/](https://dev.botframework.com/)
  - Generate app id and app password
  - Supply app id and app password to <code>ChatConnector</code> at lines **13** and **14** respectively of app.js
+ - Download the project and run <code>npm install</code> in the terminal at the directory root level
+ - Run <code>node app.js</code> at the root level directory
  - Download [ngrok](https://ngrok.com) and run <code>ngrok.exe</code> from the extracted folder
  - Run <code>ngrok http 8080</code> at this ngrok terminal
  - Copy the secure (https) link and paste it to **Messaging endpoint** field of [bot registration form](https://dev.botframework.com/bots/new)
