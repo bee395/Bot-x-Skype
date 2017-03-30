@@ -16,6 +16,12 @@
  - Click Add to skype button and start chating with the bot
  - [Learn more](https://medium.com/@AmJustSam/how-to-build-skype-bot-with-nodejs-ddec8372114c)
 
+# Run on Heroku
+
+ - [Procfile and worker process](http://shiffman.net/a2z/bot-heroku/) are required for Heroku deployments
+ - [Deploy github code to Heroku](https://www.google.com/search?q=Deploy+Github+code+to+Heroku)
+ - Update the heroku link as new message end point in bot framework website
+ 
 # Credits
 
 [Usama Tahir](https://github.com/AmJustSam)
