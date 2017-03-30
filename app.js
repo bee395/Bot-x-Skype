@@ -10,8 +10,8 @@ server.listen(process.env.port || process.env.PORT || 8080, function () {
 });
 // Create chat bot
 var connector = new builder.ChatConnector({
-    appId: "your app id here",
-    appPassword: "your app password here"
+    appId: "afb948bf-44b2-43a7-b061-609d4e61799c",
+    appPassword: "QBtqN2D6JOvB7d3bwYbuef1"
 });
 var bot = new builder.UniversalBot(connector);
 server.post('/api/messages', connector.listen());
