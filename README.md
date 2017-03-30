@@ -20,7 +20,7 @@
 
  - [Procfile and worker process](http://shiffman.net/a2z/bot-heroku/) are required for Heroku deployments
  - [Deploy github code to Heroku](https://www.google.com/search?q=Deploy+Github+code+to+Heroku)
- - Update the heroku link as new message end point in bot framework website
+ - Update the heroku link as new message end point in [bot framework website](https://dev.botframework.com/)
  
 # Credits
 
